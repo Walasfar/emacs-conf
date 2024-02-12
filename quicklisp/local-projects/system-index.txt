@@ -1,0 +1,4 @@
+str-tools/str-tools.asd
+tebot-0.1/tebot-0.1.asd
+albion-trader/albion-trader.asd
+albion-data-parser/albion-data-parser.asd

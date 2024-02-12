@@ -1,0 +1,1 @@
+dists/quicklisp/software/clss-20231021-git/clss.asd

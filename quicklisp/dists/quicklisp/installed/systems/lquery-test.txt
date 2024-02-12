@@ -1,0 +1,1 @@
+dists/quicklisp/software/lquery-20231021-git/lquery-test.asd
